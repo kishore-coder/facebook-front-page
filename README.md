@@ -1,1 +1,1 @@
-This is a facebook login front page project:
+This is a facebook login front page project.
